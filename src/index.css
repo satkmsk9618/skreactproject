@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black !important; 
+  
+}
+
+.font{
+  font-family: 'Courier New', Courier, monospace;
+}
